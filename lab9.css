@@ -1,0 +1,21 @@
+body{background-image: url(giphy.gif);
+overflow: hidden;}
+/*img {width:100%;
+	}*/
+
+nav{margin-top: 20%;
+	z-index: 1;
+	width: 100%;
+background-color: white;
+}
+ul {text-align: center;}
+li{
+	font-size:48px;
+	display:inline-block;
+	padding:40px;
+	font-family: 'Shrikhand', cursive;
+	margin-left: 30px;
+}
+
+/*li:hover{color:#eeeeee;}*/
+
